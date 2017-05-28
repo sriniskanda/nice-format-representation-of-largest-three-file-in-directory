@@ -12,3 +12,14 @@ example in windows:
 
 python findingLarget.py G:\songs
 
+
+sample output of code
+----------------------------------------------------------------------
+
+top three files
+
+File name    Size                                              Location
+-----------  ------------------------------------------------  -----------
+10.85 MB     38 Ed Sheeran - Thinking Out Loud.mp3             G:\songs\uk
+10.5 MB      37 Kygo Feat Conrad - Firestone.mp3               G:\songs\uk
+10.48 MB     30 Mark Ronson Feat Bruno Mars - Uptown Funk.mp3  G:\songs\uk
