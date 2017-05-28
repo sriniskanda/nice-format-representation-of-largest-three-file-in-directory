@@ -6,7 +6,7 @@ Usage example
 
 cmd line:
 
-python findingLarget.py <directory path here>
+python findingLarget.py "directory path here"
 
 example in windows:
 
